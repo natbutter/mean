@@ -2,3 +2,4 @@ import pandas as pd
 dataframe = pd.read_csv("rgb.csv")
 means = dataframe.mean()
 #in bad comment
+print("some changees")
